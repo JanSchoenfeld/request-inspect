@@ -1,0 +1,24 @@
+{
+  "name": "request-inspect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanSchoenfeld/request-inspect.git"
+  },
+  "author": "Jan Schönfeld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanSchoenfeld/request-inspect/issues"
+  },
+  "homepage": "https://github.com/JanSchoenfeld/request-inspect#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
